@@ -1,4 +1,7 @@
+// react-router-dom imports
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
+
+// layouts 
 import Main, { mainLoader } from "./layouts/Main";
 
 // routes
